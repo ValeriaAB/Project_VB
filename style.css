@@ -4,5 +4,5 @@
 	#calculator table td {border-spacing: 3px;}
 	input.display {width: 166px; text-align: right;}
 	td.buttons {border-top: solid 1px silver;}	
-	input[type= button] {width: 30px; height: 30px;}
+	input[type= button] {width: 25px; height: 25px;}
 </style>
